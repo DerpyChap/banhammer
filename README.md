@@ -1,10 +1,11 @@
-# banhammer
+# Tom Scott Banhammer Generator
 _Generates GIFs based on Tom Scott's Banhammer_
 
 ![](https://i.imgur.com/l1CdgDm.gif)
 
 ## Installing
 **Python 3.5+ is required**
+
 To install the library, simply run the following command:
 
 ```
