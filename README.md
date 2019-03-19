@@ -3,6 +3,8 @@ _Generates GIFs based on Tom Scott's Banhammer_
 
 ![](https://i.imgur.com/l1CdgDm.gif)
 
+Want to use this in any project using Docker? Get the Docker container here: https://gitlab.com/nerd3-servers/banhammer-generator
+
 ## Installing
 **Python 3.5+ is required**
 
@@ -44,7 +46,7 @@ The font file included is a modified version of the Bungee Regular font. The fon
 
 | Font | Designers | Licenses |
 | ---- | ---------------- | ------- |
-|[Bungee Regular](https://fonts.google.com/specimen/Bungee)|[David Jonathan Ross](http://www.djr.com/)|[SIL Open Font License](assets/Bungee-LICENSE.txt)
-|[Twitter Color Emoji SVGinOT Font](https://github.com/twitter/twemoji)|[Brad Erickson](https://keybase.io/bde), [Joe Loughry](https://cnadocs.com/), Terence Eden, [Twitter, Inc](https://about.twitter.com/en_us/company.html) and collaborators|[Massachusetts Institute of Technology License](assets/twitter-color-emoji-LICENSE.txt)<br/>[Creative Commons Attribution 4.0 International](assets/twitter-color-emoji-LICENSE.txt#L24)
-|[DejaVu Sans Mono](https://dejavu-fonts.github.io/)|[Štěpán Roh](http://alivebutsleepy.srnet.cz/) and [authors](https://dejavu-fonts.github.io/Authors.html), [Bitstream, Inc](https://www.monotype.com/), [Tavmjung Bah](https://tavmjong.free.fr/)|[Massachusetts Institute of Technology License](assets/Dejau-MIT.txt)
-|[Tetsubin Gothic](http://fontna.com/freefont/?p=12)|[フォントな自由](http://fontna.com/)|[Apache License 2.0](assets/Tetsubin-LICENSE.txt)
+|[Bungee Regular](https://fonts.google.com/specimen/Bungee)|[David Jonathan Ross](http://www.djr.com/)|[SIL Open Font License](https://github.com/DerpyChap/banhammer/blob/master/banhammer/assets/Bungee-LICENSE.txt)
+|[Twitter Color Emoji SVGinOT Font](https://github.com/twitter/twemoji)|[Brad Erickson](https://keybase.io/bde), [Joe Loughry](https://cnadocs.com/), Terence Eden, [Twitter, Inc](https://about.twitter.com/en_us/company.html) and collaborators|[Massachusetts Institute of Technology License](https://github.com/DerpyChap/banhammer/blob/master/banhammer/assets/twitter-color-emoji-LICENSE.txt)<br/>[Creative Commons Attribution 4.0 International](https://github.com/DerpyChap/banhammer/blob/master/banhammer/assets/twitter-color-emoji-LICENSE.txt#L24)
+|[DejaVu Sans Mono](https://dejavu-fonts.github.io/)|[Štěpán Roh](http://alivebutsleepy.srnet.cz/) and [authors](https://dejavu-fonts.github.io/Authors.html), [Bitstream, Inc](https://www.monotype.com/), [Tavmjung Bah](https://tavmjong.free.fr/)|[Massachusetts Institute of Technology License](https://github.com/DerpyChap/banhammer/blob/master/banhammer/assets/DejaVu-LICENSE.txt)
+|[Tetsubin Gothic](http://fontna.com/freefont/?p=12)|[フォントな自由](http://fontna.com/)|[Apache License 2.0](https://github.com/DerpyChap/banhammer/blob/master/banhammer/assets/Tetsubin-LICENSE.txt)
