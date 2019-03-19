@@ -5,9 +5,10 @@ def readme():
         return f.read()
 
 setup(name='banhammer',
-      version='0.1.0',
+      version='0.1.1',
       description='Generates GIFs based on Tom Scott\'s Banhammer',
       long_description=readme(),
+      long_description_content_type='text/markdown',
       url='https://github.com/DerpyChap/banhammer',
       author='DerpyChap',
       author_email='holla@derpychap.co.uk',
