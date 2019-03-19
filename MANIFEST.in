@@ -1,0 +1,5 @@
+include README.md
+include banhammer/frames.json
+include banhammer/assets/*.txt
+include banhammer/assets/*.ttf
+include banhammer/frames/*.gif
