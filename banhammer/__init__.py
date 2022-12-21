@@ -3,15 +3,15 @@
 Tom Scott Banhammer Generator
 ~~~~~~~~~~~~~~~~~~~
 Generates GIFs based on Tom Scott's Banhammer.
-:copyright: (c) 2019 DerpyChap
+:copyright: (c) 2019-2022 DerpyChap
 :license: ISC, see LICENSE for more details.
 """
 
 __title__ = 'banhammer'
 __author__ = 'DerpyChap'
 __license__ = 'ISC'
-__copyright__ = 'Copyright 2019 DerpyChap'
-__version__ = '0.1.2'
+__copyright__ = 'Copyright 2019-2022 DerpyChap'
+__version__ = '0.1.3'
 
 from collections import namedtuple
 from .generator import Generator

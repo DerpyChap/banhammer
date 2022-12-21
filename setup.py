@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='banhammer',
-      version='0.1.2',
+      version='0.1.3',
       description='Generates GIFs based on Tom Scott\'s Banhammer',
       long_description=readme(),
       long_description_content_type='text/markdown',
